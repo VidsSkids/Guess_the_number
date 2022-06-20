@@ -1,3 +1,4 @@
+# Guessing Game
 Hello,
 Here is a simple guess the number game in rust.
 Enjoy it!
